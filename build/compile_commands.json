@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/alfeak/lidar/workspace/implement/simplecuda/build",
+  "command": "/usr/local/cuda-12.6/bin/nvcc -forward-unknown-to-host-compiler -I/usr/local/cuda-12.6/include -I/home/alfeak/lidar/workspace/implement/simplecuda/include -g --generate-code=arch=compute_87,code=[compute_87,sm_87] -std=c++17 -x cu -c /home/alfeak/lidar/workspace/implement/simplecuda/src/hello_world.cu -o CMakeFiles/simple_cuda.dir/src/hello_world.cu.o",
+  "file": "/home/alfeak/lidar/workspace/implement/simplecuda/src/hello_world.cu"
+}
+]
